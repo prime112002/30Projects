@@ -1,0 +1,18 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+#clock {
+  font-size: 25px;
+  font-weight: bolder;
+}
+#date {
+  font-size: 30px;
+  margin-top: 25px;
+  color: aqua;
+}
